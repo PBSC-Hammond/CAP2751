@@ -8,7 +8,7 @@ Tools for Data Science
 
 #### Resources:
 
-   \indent Python Data Science Handbook, 2nd Edition  O’Reilly  978-1098121228
+   Python Data Science Handbook, 2nd Edition  O’Reilly  978-1098121228
 
 #### Course Description: 
    This course focuses on data manipulation, curation, visualization, exploration, interpretation and modeling using standard packages and tools employed in the field of data science, as well as best practices for maintaining data and software using version control.
@@ -18,9 +18,9 @@ Tools for Data Science
 
 #### CLO’s:
 
-   Course competency 1: Apply software packages for data science using programming languages that can include R, Python, SQL and others. 
+   **Course competency 1:** Apply software packages for data science using programming languages that can include R, Python, SQL and others. 
 
-   Course competency 2: Identify patterns and draw conclusions from visualized data. Course competency 3: Describe data acquisition, preprocessing, and transformation.
+   **Course competency 2:** Identify patterns and draw conclusions from visualized data. Course competency 3: Describe data acquisition, preprocessing, and transformation.
 
 #### Standards associated with this course:
 
