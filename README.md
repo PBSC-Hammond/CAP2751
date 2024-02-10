@@ -18,9 +18,9 @@ Tools for Data Science
 
 #### CLO’s:
 
-      Course competency 1: Apply software packages for data science using programming languages that can include R, Python, SQL and others. 
+   Course competency 1: Apply software packages for data science using programming languages that can include R, Python, SQL and others. 
 
-      Course competency 2: Identify patterns and draw conclusions from visualized data. Course competency 3: Describe data acquisition, preprocessing, and transformation.
+   Course competency 2: Identify patterns and draw conclusions from visualized data. Course competency 3: Describe data acquisition, preprocessing, and transformation.
 
 #### Standards associated with this course:
 
