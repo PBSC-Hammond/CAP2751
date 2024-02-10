@@ -21,13 +21,13 @@ Course competency 2: Identify patterns and draw conclusions from visualized data
 
 Standards associated with this course:
 
-•	05.0	Apply fundamental mathematical concepts and topics relevant to AI.
-•	07.0	Describe data acquisition, preprocessing, and transformation for AI models
-•	08.0	Describe the use of artificial intelligence tools and how they may be applied to optimize an organization’s capabilities
+ * 05.0	Apply fundamental mathematical concepts and topics relevant to AI.
+ * 07.0	Describe data acquisition, preprocessing, and transformation for AI models
+ * 08.0	Describe the use of artificial intelligence tools and how they may be applied to optimize an organization’s capabilities
 Benchmarks associated with this course:
-•	05.01	Describe common mathematical operations encountered in AI Projects. 
-•	05.02	Demonstrate mathematical operations for given datasets using a programming language. 
-•	05.03	Describe general characteristics and common measures of dispersion for a dataset. 
+ * 05.01	Describe common mathematical operations encountered in AI Projects. 
+ * 05.02	Demonstrate mathematical operations for given datasets using a programming language. 
+ * 05.03	Describe general characteristics and common measures of dispersion for a dataset. 
 •	05.04	Describe common terms encountered in probability.
 •	07.01	Utilize various techniques for identifying data requirements. 
 •	07.02	Identify and design a data collection plan. 
