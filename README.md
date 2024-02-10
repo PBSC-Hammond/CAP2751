@@ -51,7 +51,7 @@ Tools for Data Science
 
  * Student will recognize the different tools associated with Artificial intelligence and 
    1. Apply the appropriate tools for data acquisition, preprocessing, and transformation for AI models 
-   1. B)Apply fundamental mathematical concepts and topics relevant to AI
+   1. Apply fundamental mathematical concepts and topics relevant to AI
 # Modules
 
 ### Module 1: Introduction: What is Data Science?
