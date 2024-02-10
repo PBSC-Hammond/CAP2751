@@ -58,7 +58,7 @@ Tools for Data Science
 [Module 1](./Module_1/README.md) is an Introduction to 
 
 ### Module 2: Tools: Python, IPython, and Jupyter notebooks
-[Module 2](./Module_2/README.md) is about
+ - [Module 2](./Module_2/README.md) is about
 
 ### Module 3: Tools: NumPy, Matplotlib, and Pandas
 [Module 3](./Module_3/README.md) is about 
