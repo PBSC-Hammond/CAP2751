@@ -28,25 +28,26 @@ Benchmarks associated with this course:
  * 05.01	Describe common mathematical operations encountered in AI Projects. 
  * 05.02	Demonstrate mathematical operations for given datasets using a programming language. 
  * 05.03	Describe general characteristics and common measures of dispersion for a dataset. 
-•	05.04	Describe common terms encountered in probability.
-•	07.01	Utilize various techniques for identifying data requirements. 
-•	07.02	Identify and design a data collection plan. 
-•	07.03	Identify attributes and benefits of data sources and associated collection strategies. 
-•	07.04	Evaluate risks to data privacy, integrity, and availability. 
-•	07.05	Apply methods to evaluate and interpret model outputs. 
-•	07.06	Describe techniques to transform data from multiple sources and formats by utilizing visualization tools and fitting data to models.
-•	07.07	Identify and assess data readiness. 
-•	07.08	Describe the benefits and disadvantages of data virtualization.
-•	08.01	Utilize knowledge of available AI tools to accomplish specific objectives.
-•	08.02	Describe potential project pitfalls in tool selection.
-•	08.03	Identify alternative AI solutions.
-•	08.04	Explain various deployment strategies.
-•	08.05	Describe the role and usage of cloud services in AI project development and deployment. 
-•	08.06	Identify trends in emerging AI tools to address the evolving nature of AI systems.
+ * 05.04	Describe common terms encountered in probability.
+ * 07.01	Utilize various techniques for identifying data requirements. 
+ * 07.02	Identify and design a data collection plan. 
+ * 07.03	Identify attributes and benefits of data sources and associated collection strategies. 
+ * 07.04	Evaluate risks to data privacy, integrity, and availability. 
+ * 07.05	Apply methods to evaluate and interpret model outputs. 
+ * 07.06	Describe techniques to transform data from multiple sources and formats by utilizing visualization tools and fitting data to models.
+ * 07.07	Identify and assess data readiness. 
+ * 07.08	Describe the benefits and disadvantages of data virtualization.
+ * 08.01	Utilize knowledge of available AI tools to accomplish specific objectives.
+ * 08.02	Describe potential project pitfalls in tool selection.
+ * 08.03	Identify alternative AI solutions.
+ * 08.04	Explain various deployment strategies.
+ * 08.05	Describe the role and usage of cloud services in AI project development and deployment. 
+ * 08.06	Identify trends in emerging AI tools to address the evolving nature of AI systems.
 PLO’s associated with this course:
-•	Student will recognize the different tools associated with Artificial intelligence and 
-o	A) Apply the appropriate tools for data acquisition, preprocessing, and transformation for AI models 
-o	B)Apply fundamental mathematical concepts and topics relevant to AI
+
+ * Student will recognize the different tools associated with Artificial intelligence and 
+   1. Apply the appropriate tools for data acquisition, preprocessing, and transformation for AI models 
+   1. B)Apply fundamental mathematical concepts and topics relevant to AI
 
 
 ## Module 1: Introduction: What is Data Science?
