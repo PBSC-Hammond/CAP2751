@@ -3,21 +3,24 @@ Tools for Data Science
 
 #### Course Number: CAP2751
 
-#### Course Title: Tools for Data Science
+#### Course Title: 
+   Tools for Data Science
 
 #### Resources:
 
-Python Data Science Handbook, 2nd Edition  O’Reilly  978-1098121228
+   Python Data Science Handbook, 2nd Edition  O’Reilly  978-1098121228
 
-Course Description: This course focuses on data manipulation, curation, visualization, exploration, interpretation and modeling using standard packages and tools employed in the field of data science, as well as best practices for maintaining data and software using version control.
+#### Course Description: 
+   This course focuses on data manipulation, curation, visualization, exploration, interpretation and modeling using standard packages and tools employed in the field of data science, as well as best practices for maintaining data and software using version control.
 
-Prerequisites: Students must complete COP1000 with a Grade of C or higher, Students may take COP1000 at the same time with departmental approval.
+#### Prerequisites: 
+   Students must complete COP1000 with a Grade of C or higher, Students may take COP1000 at the same time with departmental approval.
 
 #### CLO’s:
 
-Course competency 1: Apply software packages for data science using programming languages that can include R, Python, SQL and others. 
+      Course competency 1: Apply software packages for data science using programming languages that can include R, Python, SQL and others. 
 
-Course competency 2: Identify patterns and draw conclusions from visualized data. Course competency 3: Describe data acquisition, preprocessing, and transformation.
+      Course competency 2: Identify patterns and draw conclusions from visualized data. Course competency 3: Describe data acquisition, preprocessing, and transformation.
 
 #### Standards associated with this course:
 
