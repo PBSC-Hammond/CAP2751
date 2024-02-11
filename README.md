@@ -50,7 +50,7 @@ Tools for Data Science
 #### PLO’s associated with this course:
 
  **Applied Artificial Intelligence (AS)**
- * PLO-3: Student will recognize the different tools associated with Artificial intelligence and 
+ * **PLO-3:** Student will recognize the different tools associated with Artificial intelligence and 
    1. Apply the appropriate tools for data acquisition, preprocessing, and transformation for AI models 
    1. Apply fundamental mathematical concepts and topics relevant to AI
 # Modules
